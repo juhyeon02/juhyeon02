@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&text=JuHyeon📁&color=97d2d4&fontColor=636363&fontSize=50&animation=fadeIn)
+</div>
+<div align="center"> <h3>🌠Introduction</h3> 
+<br> 안녕하세요 저는  </div>
+</br>
+💡studying
+</br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-<!--
-**juhyeon02/juhyeon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyeon02&layout=compact)](https://github.com/juhyeon02/github-readme-stats)
